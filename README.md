@@ -14,6 +14,8 @@ Darknet is an open source neural network framework written in C and CUDA. It is 
 
 ## ImageAI
 
+ImageAI is a python library built to empower developers to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple and few lines of code.
+
 ImageAI provided very powerful yet easy to use classes and functions to perform Video Object Detection and Tracking and Video analysis. It allows you to perform all of these with state-of-the-art deep learning algorithms like RetinaNet, YOLOv3 and TinyYOLOv3. [ImageAI documentation](https://imageai.readthedocs.io/en/latest/video/index.html)
 
 ## Detection example
